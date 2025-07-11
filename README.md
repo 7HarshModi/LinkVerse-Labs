@@ -4,12 +4,12 @@
 This Projects are User Activity analysis dashboard and my portfolio website.
 
 ### Tech Stack
-Bolt.new - Made an Attractive & live dashboard
-v0.dev - Made portfolio wbsite using AI based templates.
+Bolt.new - Made an Attractive & live dashboard <br>
+v0.dev - Made portfolio wbsite using AI based templates. <br>
 21st.dev - It gives attractive components for websites.
 
 ### Screenshot & Demo
-Preview of Dashboard : 
+Preview of Dashboard :
 See dashboard here :
 
 Preview of Website :
