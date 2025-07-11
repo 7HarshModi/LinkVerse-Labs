@@ -10,7 +10,7 @@ v0.dev - Made portfolio wbsite using AI based templates. <br>
 
 ### Screenshot & Demo
 Preview of Dashboard : https://github.com/7HarshModi/LinkVerse-Labs/blob/main/Dashboard.png <br>
-See dashboard here :
+See dashboard here : https://quiet-sunflower-b42a12.netlify.app/ <br>
 
 Preview of Website :
 See Website here :
