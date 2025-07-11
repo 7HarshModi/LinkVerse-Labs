@@ -1,14 +1,14 @@
 # LinkVerse-Labs
-##There are two projects which i made during my internship at LinkVerse Labs.
-###Description
+## There are two projects which i made during my internship at LinkVerse Labs.
+### Description
 This Projects are User Activity analysis dashboard and my portfolio website.
 
-###Tech Stack
+### Tech Stack
 Bolt.new - Made an Attractive & live dashboard
 v0.dev - Made portfolio wbsite using AI based templates.
 21st.dev - It gives attractive components for websites.
 
-###Screenshot & Demo
+### Screenshot & Demo
 Preview of Dashboard : 
 See dashboard here :
 
